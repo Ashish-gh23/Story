@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m ""
+
+git checkout file.txt //to revert a file to previous committed state
+
+git diff file.txt //to check difference of file in between last commited state and current one
+
+git rm --cached -r //to remove all files from git staging area to working dir
