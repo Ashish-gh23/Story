@@ -1,0 +1,4 @@
+#Comments start with #
+*.log
+secret.txt
+DS_store
